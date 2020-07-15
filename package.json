@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Portafolio generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIKO09ES/portfolio-generator.git"
+  },
+  "keywords": [
+    "\"portafolio\"",
+    "\"generator\"",
+    "\"node\"",
+    "\"javascript\""
+  ],
+  "author": "\"Nicolas\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIKO09ES/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/NIKO09ES/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
